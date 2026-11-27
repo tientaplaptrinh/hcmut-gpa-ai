@@ -18,3 +18,5 @@ frontend/blob-report/
 .DS_Store
 Thumbs.db
 *.log
+
+.vercel
