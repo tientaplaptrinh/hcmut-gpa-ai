@@ -1,0 +1,149 @@
+{
+  "crawled_at": "2026-11-27T04:36:43.261901+00:00",
+  "source_domains": [
+    "https://hcmut.edu.vn/study/handbook/course/undergraduate",
+    "https://mybk.hcmut.edu.vn/api/v2/curriculums",
+    "https://dee.hcmut.edu.vn/dao-tao-dai-hoc"
+  ],
+  "dee_metadata": {
+    "source": "https://dee.hcmut.edu.vn/dao-tao-dai-hoc",
+    "reachable": true,
+    "content_id": "66f93fddaeec676a267c106b"
+  },
+  "total_cached_curricula": 42,
+  "majors": [
+    {
+      "major_code": "7520201",
+      "major_name": "Kỹ thuật Điện",
+      "major_name_en": "Electrical Engineering",
+      "faculty": "Khoa Điện - Điện tử",
+      "program_type": "Chương trình Tiêu chuẩn",
+      "available_cohorts": [
+        "K2021",
+        "K2022",
+        "K2023",
+        "K2024",
+        "K2025",
+        "K2026"
+      ],
+      "default_cohort": "K2025",
+      "total_credits": 132,
+      "total_gpa_credits": 132,
+      "course_count": 97
+    },
+    {
+      "major_code": "7520207",
+      "major_name": "Kỹ thuật Điện tử – Viễn thông",
+      "major_name_en": "Electronics and Telecommunications Engineering",
+      "faculty": "Khoa Điện - Điện tử",
+      "program_type": "Chương trình Tiêu chuẩn",
+      "available_cohorts": [
+        "K2021",
+        "K2022",
+        "K2023",
+        "K2024",
+        "K2025",
+        "K2026"
+      ],
+      "default_cohort": "K2025",
+      "total_credits": 132,
+      "total_gpa_credits": 132,
+      "course_count": 92
+    },
+    {
+      "major_code": "7520216",
+      "major_name": "Kỹ thuật Điều khiển & Tự động hóa",
+      "major_name_en": "Control Engineering and Automation",
+      "faculty": "Khoa Điện - Điện tử",
+      "program_type": "Chương trình Tiêu chuẩn",
+      "available_cohorts": [
+        "K2021",
+        "K2022",
+        "K2023",
+        "K2024",
+        "K2025",
+        "K2026"
+      ],
+      "default_cohort": "K2025",
+      "total_credits": 132,
+      "total_gpa_credits": 132,
+      "course_count": 87
+    },
+    {
+      "major_code": "75202TT",
+      "major_name": "Kỹ thuật Điện – Điện tử (CT Tiên tiến)",
+      "major_name_en": "Electrical and Electronics Engineering (Advanced Program)",
+      "faculty": "Khoa Điện - Điện tử",
+      "program_type": "Chương trình Tiên tiến (CTTT)",
+      "available_cohorts": [
+        "K2021",
+        "K2022",
+        "K2023",
+        "K2024",
+        "K2025",
+        "K2026"
+      ],
+      "default_cohort": "K2025",
+      "total_credits": 124,
+      "total_gpa_credits": 136,
+      "course_count": 106
+    },
+    {
+      "major_code": "75202a1",
+      "major_name": "Thiết kế Vi mạch",
+      "major_name_en": "Integrated Circuit Design",
+      "faculty": "Khoa Điện - Điện tử",
+      "program_type": "Chương trình Tiêu chuẩn / Thí điểm Vi mạch",
+      "available_cohorts": [
+        "K2021",
+        "K2022",
+        "K2023",
+        "K2024",
+        "K2025",
+        "K2026"
+      ],
+      "default_cohort": "K2025",
+      "total_credits": 132,
+      "total_gpa_credits": 132,
+      "course_count": 94
+    },
+    {
+      "major_code": "7480101",
+      "major_name": "Khoa học Máy tính",
+      "major_name_en": "Computer Science",
+      "faculty": "Khoa Khoa học và Kỹ thuật Máy tính",
+      "program_type": "Chương trình Tiêu chuẩn",
+      "available_cohorts": [
+        "K2021",
+        "K2022",
+        "K2023",
+        "K2024",
+        "K2025",
+        "K2026"
+      ],
+      "default_cohort": "K2025",
+      "total_credits": 128,
+      "total_gpa_credits": 128,
+      "course_count": 123
+    },
+    {
+      "major_code": "7480106",
+      "major_name": "Kỹ thuật Máy tính",
+      "major_name_en": "Computer Engineering",
+      "faculty": "Khoa Khoa học và Kỹ thuật Máy tính",
+      "program_type": "Chương trình Tiêu chuẩn",
+      "available_cohorts": [
+        "K2021",
+        "K2022",
+        "K2023",
+        "K2024",
+        "K2025",
+        "K2026"
+      ],
+      "default_cohort": "K2025",
+      "total_credits": 128,
+      "total_gpa_credits": 128,
+      "course_count": 98
+    }
+  ]
+}

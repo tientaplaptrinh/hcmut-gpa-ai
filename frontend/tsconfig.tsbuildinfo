@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/importtranscriptmodal.tsx","./src/components/roadmapcomparisonpanel.tsx","./src/components/whatifretakecontrols.tsx","./src/pages/difficultydashboard.tsx","./src/pages/gparoadmapdashboard.tsx","./src/pages/onboardingpage.tsx"],"version":"5.6.3"}
